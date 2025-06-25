@@ -23,8 +23,9 @@
 I'm looking for freelance projects, collaborations, and open-source contributions where I can apply my skills to real challenges in AI, data science, and automation.
 <br>
 📫 Let’s Connect!
-🔗 [LinkedIn](https://www.linkedin.com/in/basit-k/)
 <br>
 📬 [Email](rbktech4@gmail.com)
+<br>
+🔗 [LinkedIn](https://www.linkedin.com/in/basit-k/)
 <br>
 🌐 [Fiverr](https://www.fiverr.com/sellers/rbktech/edit)
